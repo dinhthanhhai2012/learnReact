@@ -7,6 +7,7 @@ function tick() {
         <div>
             <h1>Hello, world!</h1>
             <h2>It is {new Date().toLocaleTimeString()}.</h2>
+            <h3> Hello Vietnam </h3>
         </div>
     );
     ReactDOM.render(
